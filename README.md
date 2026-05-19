@@ -94,4 +94,4 @@ The Spending Score (1–100) is a metric assigned by the mall based on customer 
 ## About HK Analytics
 
 Independent data analytics consultancy helping small businesses understand their data.  
-[Linktree](https://linktr.ee/hkanalyticsuk) | [LinkedIn](#) | hkanalyticsuk@gmail.com
+[Linktree](https://linktr.ee/hkanalyticsuk) | hello@hkanalytics.co.uk
